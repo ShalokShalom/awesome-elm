@@ -172,7 +172,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 ## Beyond the DOM
 
-* [QML](https://doc.qt.io/qt-5/qmlapplications.html) You can use .js files to create native desktop and phone applications for all platforms with GPU acceleration and easy to code animations.
+* [QML](https://doc.qt.io/qt-5/qmlapplications.html) You can use .js files to create native desktop and phone applications for   all platforms with GPU acceleration and easy to code animations.
 * [iOS](https://github.com/pzp1997/elm-ios) A POC for using Elm 0.18 for native iOS Applications
 * [elmish-wasm](https://github.com/Chadtech/elmish-wasm) A POC for compiling elm to Web Assembly
 * [elm-serverless](https://github.com/ktonon/elm-serverless) Run Elm 0.18 on Cloud Functions using the Serverless Frameworks
@@ -280,6 +280,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 *Everything that you need to see.*
 
+* [Elchemy](https://wende.github.io/elchemy/) - Elchemy is to Elixir, what Elm is to JS. Compile your Elm code into Elixir. Use auto-healing on the ErlangVM.)
 * [Elm Search](http://klaftertief.github.io/elm-search/) - Search Elm documentation for operators, function signatures, etc.
 * [Try Elm](http://elm-lang.org/try) - Write and compile elm code online!
 * [404 Elm Street](https://github.com/zalando/elm-street-404) - A fun WebGL game built with Elm.
